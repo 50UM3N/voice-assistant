@@ -1,0 +1,8 @@
+pyttsx3
+webbrowser
+smtplib
+SpeechRecognition
+wolframalpha
+numpy
+pickle
+opencv-python
