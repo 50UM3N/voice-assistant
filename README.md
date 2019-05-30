@@ -9,6 +9,8 @@ If you add face recognation on you voice assistent then
 1. Run the datasetcreator.py for take your 20 picture of yours.
 2. Run train.py for train your faces.
 
-Then run the assistent.py.
+Then run the assistent.py for getting output.
+
 Read the assistent.py carefully to get proper command.
+
 Make sure you have a microphone and webcam on your pc or laptop.
